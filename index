@@ -184,10 +184,10 @@
             <div class="space-y-3 bg-[#3d2514] p-4 rounded-xl border border-amber-900/50">
                 <h4 class="font-bold text-amber-300 text-xs tracking-wider uppercase">ข้อมูลผู้จัดทำ</h4>
                 <div class="grid grid-cols-2 gap-2 text-xs text-gray-300">
-                    <div>📌ชื่อ-สกุล : ....................................📌</div>
-                    <div>📌ห้อง : ..........................📌</div>
-                    <div>📌สาขา : ....................................📌</div>
-                    <div>📌เลขที่ : ..........................📌</div>
+                    <div>📌ชื่อ-สกุล : นางสาวสิรฐา  ต่ายเทศ</div>
+                    <div>📌ห้อง : ปวส 2/6</div>
+                    <div>📌สาขา : DBT</div>
+                    <div>📌เลขที่ : 1</div>
                 </div>
             </div>
         </div>
